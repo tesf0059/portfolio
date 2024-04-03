@@ -23,7 +23,7 @@ a {
 }
 
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-info);
+    color: var(--bs-black);
 }
 
 @media (min-width: 992px) {
