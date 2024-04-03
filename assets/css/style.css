@@ -1,0 +1,34 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
+
+body {
+    font-family:"Bai Jamjuree", sans-serif;
+    line-height: 1.7;
+}
+
+.section-padding {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Navbar */
+.navbar .navbar-nav .nav-link {
+   font-size: 14px;
+   text-transform: uppercase;
+   font-weight: 600; 
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: var(--bs-info);
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right:16px;
+        padding-left:16px;
+    }
+}
