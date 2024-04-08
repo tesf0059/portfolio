@@ -9,3 +9,10 @@ window.addEventListener('scroll', () => {
         navbar.classList.remove('shadow', 'py-3')    
         }
     })
+
+// Button 
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+}
+

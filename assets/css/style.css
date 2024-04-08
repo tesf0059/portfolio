@@ -5,7 +5,7 @@ body {
     font-family:"Bai Jamjuree", sans-serif;
     line-height: 1.7;
     color: var(--bs-black);
-    background-color:rgba(231, 224, 218, 0.631);
+    background-color:var(--bs-light);
 }
 
 .section-padding {
@@ -55,6 +55,37 @@ a {
         padding-left:16px;
     }
 }
+
+/* Dark Mode  */
+/* Dark Mode Styles */
+.dark-mode {
+    --bs-light: #0a0909;
+    --bs-black: #ffffff; 
+}
+
+/* Button Styles */
+.dark-mode-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: var(--bs-black);
+}
+
+/*  Icon Styles */
+.dark-mode-toggle i {
+    transition: color 0.4s ease-out;
+}
+
+/* Dark Mode Icon Color */
+.dark-mode .dark-mode-toggle i {
+    color: var(--bs-danger); 
+}
+
 
 /* Service */
 .service .icon {
