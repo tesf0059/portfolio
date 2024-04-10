@@ -56,10 +56,34 @@ a {
     }
 }
 
+/* Logo animation */
+/* Define the animation */
+@keyframes logoAnimation {
+    0% { transform: scale(1.3); }
+    50% { transform: scale(1.5); }
+    100% { transform: scale(1.3); }
+  }
+
+  /* Add the animation to the logo */
+  .navbar-brand h4 {
+    animation: logoAnimation 2s infinite; 
+  }
+/* Animation for nav bar */
+/* Add animation to navbar links */
+.navbar-nav .nav-link {
+    transition: color 0.3s ease-in-out; /*transition effect */
+  }
+  
+  /* Nav Bar change color when hover over */
+  /* Change color on hover */
+  .navbar-nav .nav-link:hover {
+    color: #ff2833; /* Change to your desired hover color */
+  }
+
 /* Dark Mode  */
 /* Dark Mode Styles */
 .dark-mode {
-    --bs-light: #0a0909;
+    --bs-light: #2d2c2c;
     --bs-black: #ffffff; 
 }
 
