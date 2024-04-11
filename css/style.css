@@ -77,13 +77,13 @@ a {
   /* Nav Bar change color when hover over */
   /* Change color on hover */
   .navbar-nav .nav-link:hover {
-    color: #ff2833; /* Change to your desired hover color */
+    color: #ff2833; /* Change color when hover*/
   }
 
 /* Dark Mode  */
 /* Dark Mode Styles */
 .dark-mode {
-    --bs-light: #2d2c2c;
+    --bs-light: #2a2626f0;
     --bs-black: #ffffff; 
 }
 
