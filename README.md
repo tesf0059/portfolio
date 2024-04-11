@@ -2,7 +2,7 @@
 Final Web Dev Assignment 
 # Name- Solomon Tesfaye
 # How I Made It
-- Creating my web portfolio was like assembling a cool Lego model. First, I planned how it should look and function, similar to sketching a blueprint before building. Then, I used Bootstrap 5, like a set of ready-made Lego pieces, to speed up the process. It helped me piece everything together neatly and ensured it looked good on all devices.
+- First, I planned how it should look and function, similar to sketching a blueprint before building. Then, I used Bootstrap 5, like a set of ready-made Lego pieces, to speed up the process. It helped me piece everything together neatly and ensured it looked good on all devices.
 
 - To make it more attrctive I added animations with animate.css, which made elements move and look more engaging. I also used Remixicon for icons, like adding fun icons to decorate my Logo.
 
