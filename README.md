@@ -23,4 +23,4 @@ Final Web Dev Assignment
 - Animate.css: Adds special effects to make my logo on my website move.
 - Remixicon: Provides lots of cool icons to decorate my website.
 # Hi-Fidelity-Wireframe Figma Link
-- [https://www.figma.com/file/ouoiHDLNwwifdfHjnusvud/Tesfaye_Solomon_prototype.fig?type=design&node-id=0%3A1&mode=design&t=SaxN11vwnsJSLDOJ-1] 
+- [Figma Link](https://www.figma.com/file/ouoiHDLNwwifdfHjnusvud/Tesfaye_Solomon_prototype.fig?type=design&node-id=0%3A1&mode=design&t=SaxN11vwnsJSLDOJ-1)
