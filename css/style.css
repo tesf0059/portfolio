@@ -43,10 +43,11 @@ a {
    font-size: 14px;
    text-transform: uppercase;
    font-weight: 600; 
+   color: rgb(8, 11, 168);
 }
 
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-black);
+    color: var(--bs-danger);
 }
 
 @media (min-width: 992px) {
