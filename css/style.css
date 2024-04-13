@@ -22,7 +22,7 @@ a {
 }
 /* Hover transition  */
 .border-hover {
-    transition: all 0.4 ease-out;
+    transition: all 0.4s ease-out;
     border: 2px solid transparent;
 }
 
