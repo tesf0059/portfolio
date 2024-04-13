@@ -22,5 +22,6 @@ Final Web Dev Assignment
 - Bootstrap 5: Frameworks for building websites.
 - Animate.css: Adds special effects to make my logo on my website move.
 - Remixicon: Provides lots of cool icons to decorate my website.
+- Google font
 # Hi-Fidelity-Wireframe Figma Link
 - [Figma Link](https://www.figma.com/file/ouoiHDLNwwifdfHjnusvud/Tesfaye_Solomon_prototype.fig?type=design&node-id=0%3A1&mode=design&t=SaxN11vwnsJSLDOJ-1)
