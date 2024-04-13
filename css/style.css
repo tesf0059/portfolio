@@ -47,7 +47,7 @@ a {
 }
 
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-danger);
+    color: var(--bs-dark);
 }
 
 @media (min-width: 992px) {
